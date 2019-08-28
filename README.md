@@ -14,4 +14,4 @@ https://github.com/bobit/demo-python/blob/master/src/HelloWorld.ipynb
 
 提交到[nbviewer](https://nbviewer.jupyter.org/)即可运行。
 
-![nbviewer](assets\nbviewer.png)
+![nbviewer](assets/nbviewer.png)
